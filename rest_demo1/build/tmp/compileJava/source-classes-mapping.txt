@@ -1,0 +1,12 @@
+com/restdemo/resources/MyResources.java
+ com.restdemo.resources.MyResources
+com/restdemo/service/StudentService.java
+ com.restdemo.service.StudentService
+com/restdemo/entity/StudentEntity.java
+ com.restdemo.entity.StudentEntity
+com/restdemo/service/StudentServiceImp.java
+ com.restdemo.service.StudentServiceImp
+com/restdemo/module/MyModule.java
+ com.restdemo.module.MyModule
+com/restdemo/config/GuiceConfig.java
+ com.restdemo.config.GuiceConfig
